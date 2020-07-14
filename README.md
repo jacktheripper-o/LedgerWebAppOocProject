@@ -8,6 +8,6 @@ We have chose to do a ledger where user can keep track of their income and expen
 ### Members 
 
 - Vikrom Narula 6081050
-- 
+- Hasdin Ghogar 6080532
 - 
 - 
